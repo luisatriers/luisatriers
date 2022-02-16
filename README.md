@@ -10,7 +10,7 @@
 
 - 🧩 meu intuito é compartilhar nesse perfil o progresso dos meus estudos e projetos;
 - 🌱 atualmente fazendo a formação em Data Science pela [@alura](https://www.alura.com.br/);
-- 🌳 até agora aprendi Excel, VBA, Power BI, Pyth<img src="https://i.imgur.com/huGGhYu.gif">
+- 🌳 até agora aprendi Excel, VBA, Power BI - Python em progresso<img src="https://i.imgur.com/huGGhYu.gif">
 <!--
 - 💻 desenvolvi alguns projetos em PBI | [AluraPets]() | [ClubeDoLivro](https://app.powerbi.com/view?r=eyJrIjoiMDI0NDA2ZmMtYWIxNS00ZDEzLWJhZjEtMjVmNjNhNDg1MWEzIiwidCI6IjM4ZDFjMDcxLTYxZjUtNDY4NC1iOWYxLWEyNjZkOWRjNDM2YSJ9) | 
 -->
