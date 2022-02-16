@@ -18,5 +18,3 @@
 - 📫 contato - [**Gmail**](mailto:luisatriers@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/luisatriers/) | [**Discord**](https://discord.com/users/181154280798027777)
 <!--
 -->
-
-<a href="https://discord.com/users/181154280798027777" target="blank">Ir para o Google</a>
