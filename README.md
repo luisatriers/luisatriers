@@ -1,5 +1,5 @@
 
-<h1 align="center"> oi, triers aqui! 😄</h1>
+<h1 align="center"> oi, triers aqui!<img src="https://i.imgur.com/98RB9YG.gif" height="60px" weight="60px"></h1>
 
 <h3 align="center">estudante de tecnologia em transição de carreira</h3>
 
@@ -18,3 +18,5 @@
 - 📫 contato - [**Gmail**](mailto:luisatriers@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/luisatriers/) | [**Discord**](https://discord.com/users/181154280798027777)
 <!--
 -->
+
+<img src="https://github.com/luisatriers/luisatriers/blob/main/github-user-contribution.svg">
