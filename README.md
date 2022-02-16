@@ -19,4 +19,4 @@
 <!--
 -->
 
-<a href="https://discord.com/users/181154280798027777" target="_blank">Ir para o Google</a>
+<a href="https://discord.com/users/181154280798027777" target="blank">Ir para o Google</a>
