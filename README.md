@@ -1,5 +1,5 @@
 
-<h1 align="center"> oi, triers aqui!<img src="https://i.imgur.com/98RB9YG.gif" height="60px" weight="60px"></h1>
+<h1 align="center"> olá, triers aqui!<img src="https://i.imgur.com/98RB9YG.gif" height="60px" weight="60px"></h1>
 
 <h3 align="center">analista de dados | entusiasta de tecnologia</h3><br>
 
