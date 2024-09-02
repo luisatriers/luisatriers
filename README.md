@@ -14,7 +14,7 @@
 -->
 - 💡 tenho feito, paralelamente, o bootcamp de [Desenvolvimento FullStack da DIO+XP Inc](https://web.dio.me/track/a932e25b-41f5-4132-9cc9-ae47fc10f2cb) e tenho curtido bastante!
 - ⚡ **fun fact**: já fui streamer e cheguei a ter uma média de 70 subscribers. uma das experiências mais incríveis da minha vida ♡ (fora, é claro, ser mãe - nada supera essa! hahaha);
-- 📫 contato - [**Gmail**](mailto:luisatriers@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/luisatriers/) | [**Discord**](https://discord.com/users/181154280798027777) | [**Twitter**](https://twitter.com/DevTriers)
+- 📫 contato - [**Gmail**](mailto:luisatriers@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/luisatriers/) | [**Discord**](https://discord.com/users/181154280798027777)
 <!--
 -->
 
