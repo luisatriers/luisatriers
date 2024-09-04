@@ -5,7 +5,7 @@
 
 - 🧩 meu intuito é compartilhar nesse perfil o progresso dos meus estudos e projetos;
 - 🎓 formada em Gestão Financeira e no momento estou no 1º período da graduação em Análise e Desenvolvimento de Sistemas;
-- 🌱 atualmente estudando a tríade do front-end HTML|CSS|JS e meus projetos estão no [codepen](https://codepen.io/luisatriers);
+- 🌱 atualmente estudando a tríade do front-end HTML | CSS | JS e meus projetos estão no [codepen](https://codepen.io/luisatriers);
 <!--
 - 🌳 até agora aprendi ________________;<img src="https://i.imgur.com/huGGhYu.gif">
 -->
