@@ -1,11 +1,33 @@
+<h1 align="center"> hi, triers here!<img src="https://i.imgur.com/98RB9YG.gif" height="60px" weight="60px"></h1>
+<h3 align="center">fullstack developer | tech enthusiast | gamer | mom ♡</h3>
 
-<h1 align="center"> olá, triers aqui!<img src="https://i.imgur.com/98RB9YG.gif" height="60px" weight="60px"></h1>
+## about me:
 
-<h3 align="center">mãe ♡︎ | analista de dados | entusiasta de tecnologia | dev to be</h3><br>
+<div id="aboutMe" style="text-align:justify">
+<p>🧩 the main goal with this profile is sharing my studies' journey as well as all of my projects progress;</p>
+<p>🎓 i have a financial management degree and currently i'm getting another degree in system analysis and development;</p>
+<p>🌱 at the moment i'm studying the frontend holy triad  <b>[HTML | CSS | JS]</b> and its frameworks;</p>
+<p>⚡ <b>fun fact:</b> i was a streamer once and got to a monthly 70 subscribers. one of the most amazing experiences of my life ♡ (besides being a mom, of course - nothing could ever beat that, for sure haha);</p>
+</div>
 
-- 🧩 meu intuito é compartilhar nesse perfil o progresso dos meus estudos e projetos;
-- 🎓 formada em Gestão Financeira e no momento estou no 1º período da graduação em Análise e Desenvolvimento de Sistemas;
-- 🌱 atualmente estudando a tríade do front-end HTML | CSS | JS ;
-- 💡 tenho feito, paralelamente, o bootcamp de [Desenvolvimento FullStack da DIO+XP Inc](https://web.dio.me/track/a932e25b-41f5-4132-9cc9-ae47fc10f2cb) e tenho curtido bastante!
-- ⚡ **fun fact**: já fui streamer e cheguei a ter uma média de 70 subscribers. uma das experiências mais incríveis da minha vida ♡ (fora, é claro, ser mãe - nada supera essa! hahaha);
-- 📫 contato - [**Gmail**](mailto:luisatriers@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/luisatriers/) | [**Discord**](https://discord.com/users/181154280798027777)
+## stacks!
+
+
+<div id="stacks" align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,gitlab,bootstrap,md&theme=dark" id="devCheck" alt="Stacks Icons"><br>
+    <img src="https://skillicons.dev/icons?i=react,sass,nodejs,dotnet,cs,lua,py,&theme=dark" id="devProgress" alt="Stacks Icons"><br>
+    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,pr,ae&theme=dark" id="design" alt="Stacks Icons"><br>
+    <img src="https://skillicons.dev/icons?i=vscode,codepen,replit,notion,discord,windows&theme=dark" id="tools" alt="Stacks Icons">
+</div>
+
+<!-- ## projects -->
+
+## contact me (:
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/luisatriers/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Icon"></a>
+    <a href="https://github.com/luisatriers"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub Icon"></a>
+    <a href="mailto:luisatriers@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=gmail" alt="Gmail"></a>
+    <a href="https://discord.com/channels/181154280798027777"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord" alt="Discord Icon"></a>
+    <a href="https://www.dio.me/users/luisatriers"><img src="https://img.shields.io/badge/DIO-A100FF?style=for-the-badge&" alt="DIO Profile"></a>
+</div>
